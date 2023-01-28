@@ -91,7 +91,7 @@ main {
     width: fit-content;
     height: 42;
     background-color: #07847E;
-    border-radius: 0px 8px 8px 8px;
+    border-radius: 8px 8px 0px 8px;
     padding: 14px;
     font-size: 12pt;
     font-family: Roboto;
